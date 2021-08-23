@@ -1,2 +1,4 @@
-# hasholusturucu
-python hash md5 sha1 sha256 sha512
+# Tufekcireal hasholusturucu
+Sosyal Medya Hesaplarım.
+İnstagram: https://instagram.com/tufekcireal/
+Github: https://github.com/tufekcireal/
